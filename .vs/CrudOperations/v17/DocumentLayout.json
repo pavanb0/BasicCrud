@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ApiProjects\\CrudOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDB4D4D-7589-4F66-B58A-77D04ED331C0}|CrudOperations\\CrudOperations.csproj|d:\\apiprojects\\crudoperations\\crudoperations\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDB4D4D-7589-4F66-B58A-77D04ED331C0}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C4ECC-69E0-473A-AED3-C4C5BADF4C23}|CrudOperations.DAL\\CrudOperations.DAL.csproj|d:\\apiprojects\\crudoperations\\crudoperations.dal\\dalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C4ECC-69E0-473A-AED3-C4C5BADF4C23}|CrudOperations.DAL\\CrudOperations.DAL.csproj|solutionrelative:crudoperations.dal\\dalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDB4D4D-7589-4F66-B58A-77D04ED331C0}|CrudOperations\\CrudOperations.csproj|d:\\apiprojects\\crudoperations\\crudoperations\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CEDB4D4D-7589-4F66-B58A-77D04ED331C0}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDB4D4D-7589-4F66-B58A-77D04ED331C0}|CrudOperations\\CrudOperations.csproj|d:\\apiprojects\\crudoperations\\crudoperations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDB4D4D-7589-4F66-B58A-77D04ED331C0}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EC46F6-679E-4C35-B78B-3C4E7686BEB0}|CrudOperations.DTO\\CrudOperations.DTO.csproj|d:\\apiprojects\\crudoperations\\crudoperations.dto\\crudoperationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EC46F6-679E-4C35-B78B-3C4E7686BEB0}|CrudOperations.DTO\\CrudOperations.DTO.csproj|solutionrelative:crudoperations.dto\\crudoperationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C4ECC-69E0-473A-AED3-C4C5BADF4C23}|CrudOperations.DAL\\CrudOperations.DAL.csproj|d:\\apiprojects\\crudoperations\\crudoperations.dal\\crudoperationsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C4ECC-69E0-473A-AED3-C4C5BADF4C23}|CrudOperations.DAL\\CrudOperations.DAL.csproj|solutionrelative:crudoperations.dal\\crudoperationsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C4ECC-69E0-473A-AED3-C4C5BADF4C23}|CrudOperations.DAL\\CrudOperations.DAL.csproj|d:\\apiprojects\\crudoperations\\crudoperations.dal\\requestresponselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C4ECC-69E0-473A-AED3-C4C5BADF4C23}|CrudOperations.DAL\\CrudOperations.DAL.csproj|solutionrelative:crudoperations.dal\\requestresponselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C4ECC-69E0-473A-AED3-C4C5BADF4C23}|CrudOperations.DAL\\CrudOperations.DAL.csproj|d:\\apiprojects\\crudoperations\\crudoperations.dal\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C4ECC-69E0-473A-AED3-C4C5BADF4C23}|CrudOperations.DAL\\CrudOperations.DAL.csproj|solutionrelative:crudoperations.dal\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3D8380-FC4E-453F-BCF1-E36EE88F9E69}|CrudOperations.BAL\\CrudOperations.BAL.csproj|d:\\apiprojects\\crudoperations\\crudoperations.bal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3D8380-FC4E-453F-BCF1-E36EE88F9E69}|CrudOperations.BAL\\CrudOperations.BAL.csproj|solutionrelative:crudoperations.bal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALBASE.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DAL\\DALBASE.cs",
+              "RelativeDocumentMoniker": "CrudOperations.DAL\\DALBASE.cs",
+              "ToolTip": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DAL\\DALBASE.cs",
+              "RelativeToolTip": "CrudOperations.DAL\\DALBASE.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:48:57.269Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\ApiProjects\\CrudOperations\\CrudOperations\\Web.config",
+              "RelativeDocumentMoniker": "CrudOperations\\Web.config",
+              "ToolTip": "D:\\ApiProjects\\CrudOperations\\CrudOperations\\Web.config",
+              "RelativeToolTip": "CrudOperations\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-22T05:34:32.474Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudController.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\CrudOperations\\CrudOperations\\Controllers\\CrudController.cs",
+              "RelativeDocumentMoniker": "CrudOperations\\Controllers\\CrudController.cs",
+              "ToolTip": "D:\\ApiProjects\\CrudOperations\\CrudOperations\\Controllers\\CrudController.cs",
+              "RelativeToolTip": "CrudOperations\\Controllers\\CrudController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:52:33.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestResponseLog.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DAL\\RequestResponseLog.cs",
+              "RelativeDocumentMoniker": "CrudOperations.DAL\\RequestResponseLog.cs",
+              "ToolTip": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DAL\\RequestResponseLog.cs",
+              "RelativeToolTip": "CrudOperations.DAL\\RequestResponseLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:50:01.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DAL\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "CrudOperations.DAL\\ErrorCode.cs",
+              "ToolTip": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DAL\\ErrorCode.cs",
+              "RelativeToolTip": "CrudOperations.DAL\\ErrorCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:49:36.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\CrudOperations\\CrudOperations\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudOperations\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ApiProjects\\CrudOperations\\CrudOperations\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CrudOperations\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:47:33.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrudOperationsDAL.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DAL\\CrudOperationsDAL.cs",
+              "RelativeDocumentMoniker": "CrudOperations.DAL\\CrudOperationsDAL.cs",
+              "ToolTip": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DAL\\CrudOperationsDAL.cs",
+              "RelativeToolTip": "CrudOperations.DAL\\CrudOperationsDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:46:39.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrudOperationsDTO.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DTO\\CrudOperationsDTO.cs",
+              "RelativeDocumentMoniker": "CrudOperations.DTO\\CrudOperationsDTO.cs",
+              "ToolTip": "D:\\ApiProjects\\CrudOperations\\CrudOperations.DTO\\CrudOperationsDTO.cs",
+              "RelativeToolTip": "CrudOperations.DTO\\CrudOperationsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:45:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\CrudOperations\\CrudOperations.BAL\\Class1.cs",
+              "RelativeDocumentMoniker": "CrudOperations.BAL\\Class1.cs",
+              "ToolTip": "D:\\ApiProjects\\CrudOperations\\CrudOperations.BAL\\Class1.cs",
+              "RelativeToolTip": "CrudOperations.BAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:45:13.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
